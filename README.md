@@ -13,7 +13,5 @@
  - **Email:** ignacio_amatt@hotmail.com
   <a href="https://www.linkedin.com/in/ignacio-amatt/" target="blank">
   <br>
-  <br>
 <img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/ignacio-amatt/" height="40" width="40" /></a>
-
 <br>
