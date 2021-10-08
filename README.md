@@ -2,7 +2,7 @@
 
 - 🤓 Hi! I'm Ignacio, full-stack web developer. I never stop learning so surely in the near future that will be extended to other branches of software development. 
 
-- 👀 Currently working as technical leader at Henry
+- 👀 Currently working as technical leader at Henry.
 
 - 🚀 Some of my skills are:
 
