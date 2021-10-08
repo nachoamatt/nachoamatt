@@ -2,7 +2,7 @@
 
 - 🤓 Hi! I'm Ignacio, full-stack web developer. I never stop learning so surely in the near future that will be extended to other branches of software development. 
 
-- 👀 I'm looking for a job in the area of ​​web development (front end, backend or full-stack) where I can prove all my skills and experience, and of course learn a lot with a great development team!
+- 👀 Currently working as technical leader at Henry
 
 - 🚀 Some of my skills are:
 
