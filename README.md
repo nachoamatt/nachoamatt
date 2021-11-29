@@ -6,7 +6,7 @@
 
 - 🚀 Some of my skills are:
 
-### HTML5 | CSS3 | JavaScript | Ruby | React | React Native | Redux | Bootstrap | Node.Js | Express.Js | Sequelize | PostgreSQL | Scrum | Jira/Trello/Ora | Git-Flow
+### HTML5 | CSS3 | JavaScript | Ruby | React | React Native | Redux | Bootstrap | Node.Js | Express.Js | Sequelize | PostgreSQL 
 
 ## Contact me: 
 
