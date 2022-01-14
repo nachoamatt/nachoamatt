@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachovip&label=Profile%20views&color=0e75b6&style=flat" alt="nachovip" /> </p>
 
-- 🔭 I’m currently working on [SoyHenry coding academy](https://www.soyhenry.com/)
+- 🔭 I’m currently working at [SoyHenry coding academy](https://www.soyhenry.com/)
 
 - 🌱 I’m currently learning **AWS Migrations**
 
