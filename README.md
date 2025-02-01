@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at [SoyHenry coding academy](https://www.soyhenry.com/)
 
-- 🌱 I’m currently learning **AWS Migrations**
+- 🌱 I’m currently learning **Nest.JS**
 
-- 📫 Mail me: **ignacio_amatt@hotmail.com**
+- 📫 Mail me: **ignacioamatt@gmail.com**
 
 - My [Linkedin profile](https://www.linkedin.com/in/ignacio-amatt)
 
