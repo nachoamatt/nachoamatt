@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack Developer & Product Manager from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nachovip&label=Profile%20views&color=0e75b6&style=flat" alt="nachovip" /> </p>
 
